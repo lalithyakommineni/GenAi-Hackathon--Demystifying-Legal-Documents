@@ -1,0 +1,7 @@
+{
+  "name": "LexiGuard AI",
+  "description": "An AI-powered application that simplifies complex legal documents into clear, understandable language. It provides summaries, explains clauses, and highlights potential risks to empower users in making informed decisions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
