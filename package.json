@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+
     "@google/genai": "^1.19.0",
     "framer-motion": "^12.23.12",
     "react": "^19.1.1",
@@ -16,6 +17,14 @@
   },
   "devDependencies": {
     "@types/node": "^22.18.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "framer-motion": "^12.23.12",
+    "@google/genai": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
